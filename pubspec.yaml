@@ -1,0 +1,15 @@
+name: flutter_fitness_tracker
+description: Flutter fitness tracker — workout programs, exercise library, timer, progress charts, body measurements, personal records, rest timer
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
