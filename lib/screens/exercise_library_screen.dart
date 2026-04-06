@@ -1,4 +1,3 @@
-import '../data/demo_data.dart';
 import 'package:flutter/material.dart';
 import '../providers/fitness_provider.dart';
 
