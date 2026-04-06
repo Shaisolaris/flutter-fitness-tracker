@@ -1,5 +1,7 @@
 # flutter-fitness-tracker
 
+![CI](https://github.com/Shaisolaris/flutter-fitness-tracker/actions/workflows/ci.yml/badge.svg)
+
 Flutter fitness tracker with workout programs, exercise library with muscle/equipment filters, progress tracking with body weight and body fat charts, personal records, weekly stats, body measurement tables, and rest timer. Dart-only with ChangeNotifier state management and Material Design 3.
 
 ## Stack
