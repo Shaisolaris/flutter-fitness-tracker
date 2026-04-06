@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../providers/fitness_provider.dart';
-import '../models/models.dart';
 
 class ExerciseLibraryScreen extends StatefulWidget {
   final FitnessProvider provider;
